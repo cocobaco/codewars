@@ -15,7 +15,7 @@ def find_it(seq):
 
 print(find_it([20,1,-1,2,-2,3,3,5,5,1,2,4,20,4,-1,-2,5]))
 
-print('*'*40)
+print('*' * 40)
 
 ''' check  that the elements in b are the elements in a squared, 
 regardless of the order.
